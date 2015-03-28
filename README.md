@@ -2,7 +2,7 @@
 
 ## Legend
 
-Mana sources
+##### Mana sources
 
 1. Geo
 2. Goo
