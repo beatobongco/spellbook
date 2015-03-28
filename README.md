@@ -2,7 +2,7 @@
 
 ## Legend
 
-Mana sources: 
+Mana sources
 
 1. Geo
 2. Goo
@@ -14,10 +14,11 @@ Mana sources:
 
 #### QuickS
 
-> Description: Store the golden snitch in a forager's hut.
+##### Description 
+> Store the golden snitch in a forager's hut.
 
-Mana: 
+##### Mana cost 
 
-* jEcI 
-* snkQZU 
-* ac43d466171c7c08e5c9
+> * jEcI 
+  * snkQZU 
+  * ac43d466171c7c08e5c9
