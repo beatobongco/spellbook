@@ -7,10 +7,10 @@ Mana sources:
 [1] - Goo
 [2] - ...
 
-### Spells
+## Spells
 
-#### Cantrips
+### Cantrips
 
-##### QuickS
+#### QuickS
 Description: Store the golden snitch in a forager's hut.
 Mana: jEcI, snkQZU
