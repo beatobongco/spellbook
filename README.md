@@ -20,5 +20,5 @@ Mana sources
 ##### Mana cost 
 
 > * jEcI 
-  * snkQZU 
-  * ac43d466171c7c08e5c9
+* snkQZU 
+* ac43d466171c7c08e5c9
